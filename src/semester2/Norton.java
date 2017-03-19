@@ -16,8 +16,8 @@ public class Norton {
 		
 //		File IO
 		
-		semester2.file.FileRunner.run();
-		System.out.println("dfdfd");
+		semester2.file.FileRunner.runWriter();
+		semester2.file.FileRunner.runReader();
 		
 		
 		
