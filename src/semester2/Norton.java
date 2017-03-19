@@ -6,6 +6,7 @@ import semester2.interfaces.Square;
 
 public class Norton {
 	public static void main(String[] args) throws IOException{
+
 //		Interface
 //		
 //		Square s = new Square(3.5);
@@ -14,6 +15,7 @@ public class Norton {
 //		System.out.println("The perimetter = " + s.getPerimetter());
 //		System.out.println("The area = " + s.getArea());
 		
+
 //		File IO
 		
 		semester2.file.FileRunner.runWriter();

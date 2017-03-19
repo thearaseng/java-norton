@@ -31,6 +31,7 @@ public class FileRunner {
 			while((s = br.readLine()) != null){
 				System.out.println(s);
 			}
+			fr.close();
 		}
 		catch(IOException e){
 			System.out.println(e.getMessage());
